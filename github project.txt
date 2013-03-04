@@ -1,0 +1,8 @@
+* GITHUB
+-  cd D: => go to D drive
+-  git clone https://github.com/nak2010/project_name.git => get or download source from my github project
+-  git status => for checking source in my github on server
+-  git add ** => add all files in this path
+-  git commit -a -m 'your message here' -> submit or upload source to server and sms(-a mean all files in project; -m mean message)
+-  git pull https://github.com/nak2010/project_name.git master => for checking project on server wheather have new source ot
+-  git push https://github.com/nak2010/project_name.git master => for upload source project to server (type username and pwd pong)
